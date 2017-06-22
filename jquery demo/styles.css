@@ -1,0 +1,25 @@
+img {
+  height: 400px;
+}
+
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+  background: pink;
+}
+
+.done {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.ex {
+  width: 100px;
+  height: 100px;
+  background: teal;
+  float: left;
+  margin: 20px; 
+}
