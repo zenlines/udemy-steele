@@ -1,6 +1,8 @@
 # udemy-steele
 Coursework, examples and notes from Colt Steele's Web Developer Bootcamp on Udemy
 
-Below will be links to the github.io pages for any applicable projects, once I get them to work:
+Finished Projects:
 
-(for now, just code, soz)
+https://zenlines.github.io/color-game/
+
+https://zenlines.github.io/task-list/
