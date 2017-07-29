@@ -1,9 +1,8 @@
 //function to take a single param: an array of test scores(all numbers)
 //should return avg score in array, rounded to nearest whole number
 
-var sum = 0;
-
 function average (arr) {
+    var sum = 0;
     for(var i = 0; i < arr.length; i++) {
         sum += arr[i]; 
     }
